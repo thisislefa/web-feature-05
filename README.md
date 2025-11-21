@@ -15,7 +15,7 @@ A sophisticated interactive card system that simulates realistic physics for dra
 
 ## Live Demo
 
-https://thisisefa.github.io/web-project-05
+https://thisisefa.github.io/web-feature-05
 
 ## Technologies Used
 
@@ -28,5 +28,6 @@ https://thisisefa.github.io/web-project-05
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/thisislefa/web-project-05.git
+git clone https://github.com/thisislefa/web-feature-05.git
+
 
